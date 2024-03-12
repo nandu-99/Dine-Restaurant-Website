@@ -1276,18 +1276,6 @@ button {
         margin-top: -230px;
     }
 
-    #name-error-text,
-    #email-error-text,
-    #date-error-text,
-    #time-error-text {
-        left: 55px;
-    }
-
-    #date-error-text,
-    #time-error-text {
-        top: 40px;
-    }
-
     #date-input-container {
         margin-top: 0;
     }   
